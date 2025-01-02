@@ -1,4 +1,4 @@
-# PROYECTO 17
+# PROYECTO 16
 Construirás un prototipo de un modelo de aprendizaje automático. Estos serán tus pasos:
 Hacer un plan de trabajo. Cuando veas la tarea por primera vez, notarás que está incompleta y que contiene información innecesaria. Haz un análisis exploratorio de datos para averiguar qué preguntas hacer.
 Investigar la tarea. Haz preguntas al líder de tu equipo.
